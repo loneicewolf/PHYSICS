@@ -23,7 +23,13 @@ to do & add
 - https://mathshistory.st-andrews.ac.uk/
 - https://math.ucr.edu/home/baez/physics/index.html
 - http://math.ucr.edu/home/baez/physics/index.html
+- 
+- 
+- 
+- 
+
 ***
+- https://galileo.phys.virginia.edu/classes/252/home.html
 - https://www.physicsforums.com
 - https://phys.libretexts.org/
 - https://www.nist.gov/pml/fundamental-physical-constants
@@ -34,10 +40,14 @@ to do & add
 - http://www.edu-observatory.org/physics-faq
 - http://www.ronen.net/physics
 - http://www.xs4all.nl/~johanw/PhysFAQ/index.html
+- 
+
 ***
 - https://cryptii.com
 - https://rumkin.com
 - https://gchq.github.io/CyberChef/
+- 
+
 ***
 - Queries
 - `newton site:hyperphysics.phy-astr.gsu.edu`
