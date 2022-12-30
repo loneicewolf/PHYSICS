@@ -1,8 +1,7 @@
 # PHYSICS
 
-> Why make this repo?
+$\color{#CC5F00}{\ See\ RESOURCES.MD\ for\ a\ bunch\ of\ resources}$
 
-> Because I want to understand, **but** also save this understanding of how the worlds works.
 
 ---
 
@@ -13,5 +12,6 @@
   - GR
   - SR
 
-
 ---
+
+
