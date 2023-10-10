@@ -1,7 +1,6 @@
 - https://physics.stackexchange.com/q/735441/276316
 - https://physics.stackexchange.com/q/736708/276316
 - https://physics.stackexchange.com/q/3436/276316
-- https://physics.stackexchange.com/q/3436/276316
 - https://math.ucr.edu/home/baez/physics/Relativity/BlackHoles/black_fast.html
 - 
 - 
